@@ -85,4 +85,4 @@ jupyter notebook
 # 🙌 Acknowledgments
 
 Prepared for NeurIPS 2025 by  
-**Amirmohammad Farzaneh**, **Sangwoo Park**, and **Osvaldo Simeone**.
+**Amirmohammad Farzaneh**
